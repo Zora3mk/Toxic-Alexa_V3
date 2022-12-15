@@ -1,9 +1,9 @@
 {
-  "name": "Toxic-Alexa_V3",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/TURBOHYPER/Toxic-Alexa_V3",
+  "name": "Zora Bot",
+  "description": "Zora 3mk",
+  "repository": "",
   "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",
-  "keywords": ["nodejs", "toxic-alexa_v3", "whatsapp bot", "whatsapp automation", "multi device"],
+  "keywords": ["nodejs", "Zora", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
   "addons": [{
   "plan": "heroku-postgresql"
@@ -20,17 +20,17 @@
       "ALIVE_MESSAGE": {
 			"description": "Add a message here which you want to see when typing .alive",
 			"required": true,
-			"value": "Hey Guys Toxic Alexa V3 Is Still Alive"
+			"value": "انا عايش برذر"
 		},
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "TurboMods"
+			"value": "Zora"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "+96171350883"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
@@ -40,12 +40,12 @@
 		"AUTO_READV2": {
 			"description": "Type true or false",
 			"required": true,
-			"value": "false"
+			"value": "true"
 		},
 		"AUTO_READV3": {
 			"description": "Type true or false",
 			"required": true,
-			"value": "false"
+			"value": "true"
 		},
 		"AVAILABLE": {
 			"description": "Type true or false",
@@ -60,32 +60,32 @@
 		"LOGO": {
 			"description": "Enter Your Logo Url",
 			"required": true,
-			"value": "https://telegra.ph/file/a90b046455ab6c7e089e3.jpg"
+			"value": "https://images.app.goo.gl/kSHn318fFTXvxWr89"
 		},
 		"BOT_NAME": {
 			"description": "Enter Your Bot Name",
 			"required": true,
-			"value": "Toxic-Alexa_V3"
+			"value": "Zora Bot"
 		},
 		"PACKNAME": {
 			"description": "Enter Your Name For Sticker Package Name",
 			"required": true,
-			"value": "Turbo Mods"
+			"value": "Zora"
 		},
 		"THEME_EMOJI": {
 			"description": "Enter A Emoji For Menu And Other Theme",
 			"required": true,
-			"value": "✨"
+			"value": "🐧"
 		},
 		"REACT_EMOJI": {
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
-			"value": "🇮🇳"
+			"value": "🐦"
 		},
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "916380260672"
+			"value": "+96171350883"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
